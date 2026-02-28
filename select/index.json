@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "放生",
+  "base_artist": "范逸臣",
+  "createdAt": "2026-02-28T14:43:31.235300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "放生",
+      "artist": "范逸臣",
+      "has_synced": true,
+      "path": "select/01_放生_范逸臣.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "放生 - Release",
+      "artist": "Jade Kwan",
+      "has_synced": true,
+      "path": "select/02_放生_-_Release_Jade_Kwan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "放生",
+      "artist": "范逸臣",
+      "has_synced": true,
+      "path": "select/03_放生_范逸臣.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "放生",
+      "artist": "關心妍",
+      "has_synced": true,
+      "path": "select/04_放生_關心妍.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "放生",
+      "artist": "Jade Kwan",
+      "has_synced": true,
+      "path": "select/05_放生_Jade_Kwan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "放生",
+      "artist": "关心妍",
+      "has_synced": true,
+      "path": "select/06_放生_关心妍.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "七道彩虹(無樂不作+許願+I Believe+愛過了頭+Piano+放生+Missing You)",
+      "artist": "范逸臣",
+      "has_synced": true,
+      "path": "select/07_七道彩虹(無樂不作+許願+I_Believe+愛過了頭+Piano+放生+Missing_You)_范逸臣.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "放生 tt78.com",
+      "artist": "关心妍 tt78.com",
+      "has_synced": true,
+      "path": "select/08_放生_tt78.com_关心妍_tt78.com.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "放生",
+      "artist": "范逸臣 Van Fan",
+      "has_synced": true,
+      "path": "select/09_放生_范逸臣_Van_Fan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "七道彩虹(无乐不作+许愿+I Believe+爱过了头+piano+放生+missing You)",
+      "artist": "范逸臣",
+      "has_synced": true,
+      "path": "select/10_七道彩虹(无乐不作+许愿+I_Believe+爱过了头+piano+放生+missing_You)_范逸臣.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "放生",
+      "artist": "范逸臣",
+      "has_synced": false,
+      "path": "select/pl_01_放生_范逸臣.txt"
+    }
+  ]
+}
